@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "q1": 120,
+      "q2": 200,
+      "q3": 400
+    }
+  ],
+  "profile": {
+    "name": "afsaar-iitkgp"
+  }
+}
